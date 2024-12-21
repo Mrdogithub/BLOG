@@ -1,13 +1,13 @@
 # Blog
-[1] [理解 SwiftUI  Picker 选择器：用法和样式技巧_20241217](https://github.com/Mrdogithub/BLOG/blob/main/IOS/%E7%90%86%E8%A7%A3%20SwiftUI%20%20Picker%20%E9%80%89%E6%8B%A9%E5%99%A8%EF%BC%9A%E7%94%A8%E6%B3%95%E5%92%8C%E6%A0%B7%E5%BC%8F%E6%8A%80%E5%B7%A7_20241217.md)
+[1-0] [理解 SwiftUI  Picker 选择器：用法和样式技巧_20241217](https://github.com/Mrdogithub/BLOG/blob/main/IOS/%E7%90%86%E8%A7%A3%20SwiftUI%20%20Picker%20%E9%80%89%E6%8B%A9%E5%99%A8%EF%BC%9A%E7%94%A8%E6%B3%95%E5%92%8C%E6%A0%B7%E5%BC%8F%E6%8A%80%E5%B7%A7_20241217.md)
 
 ### TODO
-[2] [理解DatePicker 多语言设置：多语言配置技巧](https://github.com/Mrdogithub/BLOG/blob/main/IOS/%E7%90%86%E8%A7%A3%20SwiftUI%20%20Picker%20%E9%80%89%E6%8B%A9%E5%99%A8%EF%BC%9A%E7%94%A8%E6%B3%95%E5%92%8C%E6%A0%B7%E5%BC%8F%E6%8A%80%E5%B7%A7_20241217.md)
-[3] [实践Swift 多语言配置：APP 内部切换语言以及读取手机语言技巧](https://github.com/Mrdogithub/BLOG/blob/main/IOS/%E7%90%86%E8%A7%A3%20SwiftUI%20%20Picker%20%E9%80%89%E6%8B%A9%E5%99%A8%EF%BC%9A%E7%94%A8%E6%B3%95%E5%92%8C%E6%A0%B7%E5%BC%8F%E6%8A%80%E5%B7%A7_20241217.md)
-[4] [实践IOS真机调试：通过真机调试本地代码](https://github.com/Mrdogithub/BLOG/blob/main/IOS/%E7%90%86%E8%A7%A3%20SwiftUI%20%20Picker%20%E9%80%89%E6%8B%A9%E5%99%A8%EF%BC%9A%E7%94%A8%E6%B3%95%E5%92%8C%E6%A0%B7%E5%BC%8F%E6%8A%80%E5%B7%A7_20241217.md)
-[5] [swift数据持久化: 使用swiftData 实现 CURD](https://github.com/Mrdogithub/BLOG/blob/main/IOS/%E7%90%86%E8%A7%A3%20SwiftUI%20%20Picker%20%E9%80%89%E6%8B%A9%E5%99%A8%EF%BC%9A%E7%94%A8%E6%B3%95%E5%92%8C%E6%A0%B7%E5%BC%8F%E6%8A%80%E5%B7%A7_20241217.md)
-[6] [swift数据持久化: 使用realm data实现 CURD](https://github.com/Mrdogithub/BLOG/blob/main/IOS/%E7%90%86%E8%A7%A3%20SwiftUI%20%20Picker%20%E9%80%89%E6%8B%A9%E5%99%A8%EF%BC%9A%E7%94%A8%E6%B3%95%E5%92%8C%E6%A0%B7%E5%BC%8F%E6%8A%80%E5%B7%A7_20241217.md)
-**适用于复杂的数据结构存储..**
+[2-0] [理解DatePicker 多语言设置：多语言配置技巧 以及APP 内部切换语言以及读取手机语言技巧](https://github.com/Mrdogithub/BLOG/blob/main/IOS/%E7%90%86%E8%A7%A3%20SwiftUI%20%20Picker%20%E9%80%89%E6%8B%A9%E5%99%A8%EF%BC%9A%E7%94%A8%E6%B3%95%E5%92%8C%E6%A0%B7%E5%BC%8F%E6%8A%80%E5%B7%A7_20241217.md)
+
+[3-0] [实践IOS真机调试：通过真机调试本地代码](https://github.com/Mrdogithub/BLOG/blob/main/IOS/%E7%90%86%E8%A7%A3%20SwiftUI%20%20Picker%20%E9%80%89%E6%8B%A9%E5%99%A8%EF%BC%9A%E7%94%A8%E6%B3%95%E5%92%8C%E6%A0%B7%E5%BC%8F%E6%8A%80%E5%B7%A7_20241217.md)
+
+
+
 
 [7-0] [swift数据持久化: 使用UserDefault 实现 CURD](https://github.com/Mrdogithub/BLOG/blob/main/IOS/%E7%90%86%E8%A7%A3%20SwiftUI%20%20Picker%20%E9%80%89%E6%8B%A9%E5%99%A8%EF%BC%9A%E7%94%A8%E6%B3%95%E5%92%8C%E6%A0%B7%E5%BC%8F%E6%8A%80%E5%B7%A7_20241217.md)
 **适用于小量数据的存储，例如应用设置..**
@@ -21,8 +21,13 @@
 [7-3] [swift数据持久化: 使用firebase 实现 CURD](https://github.com/Mrdogithub/BLOG/blob/main/IOS/%E7%90%86%E8%A7%A3%20SwiftUI%20%20Picker%20%E9%80%89%E6%8B%A9%E5%99%A8%EF%BC%9A%E7%94%A8%E6%B3%95%E5%92%8C%E6%A0%B7%E5%BC%8F%E6%8A%80%E5%B7%A7_20241217.md)
 **适用于复杂的数据结构存储..**
 
+[7-4] [swift数据持久化: 使用swiftData 实现 CURD](https://github.com/Mrdogithub/BLOG/blob/main/IOS/%E7%90%86%E8%A7%A3%20SwiftUI%20%20Picker%20%E9%80%89%E6%8B%A9%E5%99%A8%EF%BC%9A%E7%94%A8%E6%B3%95%E5%92%8C%E6%A0%B7%E5%BC%8F%E6%8A%80%E5%B7%A7_20241217.md)
+**适用于小量数据的存储，例如应用设置..**
 
-[7-4] [swift数据持久化: 使用firebase 实现 CURD](https://github.com/Mrdogithub/BLOG/blob/main/IOS/%E7%90%86%E8%A7%A3%20SwiftUI%20%20Picker%20%E9%80%89%E6%8B%A9%E5%99%A8%EF%BC%9A%E7%94%A8%E6%B3%95%E5%92%8C%E6%A0%B7%E5%BC%8F%E6%8A%80%E5%B7%A7_20241217.md)
+[7-5] [swift数据持久化: 使用realm data实现 CURD](https://github.com/Mrdogithub/BLOG/blob/main/IOS/%E7%90%86%E8%A7%A3%20SwiftUI%20%20Picker%20%E9%80%89%E6%8B%A9%E5%99%A8%EF%BC%9A%E7%94%A8%E6%B3%95%E5%92%8C%E6%A0%B7%E5%BC%8F%E6%8A%80%E5%B7%A7_20241217.md)
+**适用于复杂的数据结构存储..**
+
+[7-6] [swift数据持久化: 使用firebase 实现 CURD](https://github.com/Mrdogithub/BLOG/blob/main/IOS/%E7%90%86%E8%A7%A3%20SwiftUI%20%20Picker%20%E9%80%89%E6%8B%A9%E5%99%A8%EF%BC%9A%E7%94%A8%E6%B3%95%E5%92%8C%E6%A0%B7%E5%BC%8F%E6%8A%80%E5%B7%A7_20241217.md)
 **适用于复杂的数据结构存储..**
 
 [8-1] [swift架构模式: MVC（Model-View-Controller）](https://github.com/Mrdogithub/BLOG/blob/main/IOS/%E7%90%86%E8%A7%A3%20SwiftUI%20%20Picker%20%E9%80%89%E6%8B%A9%E5%99%A8%EF%BC%9A%E7%94%A8%E6%B3%95%E5%92%8C%E6%A0%B7%E5%BC%8F%E6%8A%80%E5%B7%A7_20241217.md)
