@@ -69,7 +69,7 @@ var body: some View {
 }
 ```
 
-![示例图片](./pic/2024121701.webp)
+![示例图片](https://raw.githubusercontent.com/Mrdogithub/BLOG/refs/heads/main/IOS/pic/2024121701.webp)
 
 
 
@@ -91,7 +91,7 @@ var body: some View {
     }
 }
 ```
-![示例图片](./pic/2024121702.webp)
+![示例图片](https://raw.githubusercontent.com/Mrdogithub/BLOG/refs/heads/main/IOS/pic/2024121702.webp)
 
 
 ### 滚轮选择器（Wheel Picker）
@@ -111,7 +111,7 @@ var body: some View {
     }
 }
 ```
-![示例图片](./pic/2024121703.webp)
+![示例图片](https://raw.githubusercontent.com/Mrdogithub/BLOG/refs/heads/main/IOS/pic/2024121703.webp)
 
 
 ### 分段选择器（Segmented Picker）
@@ -130,7 +130,7 @@ var body: some View {
     }
 }
 ```
-![示例图片](./pic/2024121704.webp)
+![示例图片](https://raw.githubusercontent.com/Mrdogithub/BLOG/refs/heads/main/IOS/pic/2024121704.webp)
 
 ### 导航链接选择器（Navigation Link Picker）
 
@@ -153,7 +153,7 @@ var body: some View {
 }
 ```
 
-![示例图片](./pic/2024121705.webp)
+![示例图片](https://raw.githubusercontent.com/Mrdogithub/BLOG/refs/heads/main/IOS/pic/2024121705.webp)
 
 ## SwiftUI 日期选择器
 日期选择器用于用户指定日期的控件。与其他选择器一样，日期选择器也提供了多种样式，以便在不同情况下使用。接下来，我们来看看这些样式。
@@ -178,7 +178,7 @@ struct ContentView: View {
     }
 }
 ```
-![示例图片](./pic/2024121706.webp)
+![示例图片](https://raw.githubusercontent.com/Mrdogithub/BLOG/refs/heads/main/IOS/pic/2024121706.webp)
 
 ### 内联日期选择器（Inline Date Picker）
 内联日期选择器在界面中以行内样式显示，类似于表单中的输入框。这种样式适合在界面空间有限的情况下使用。
@@ -221,7 +221,7 @@ struct ContentView: View {
     }
 }
 ```
-![示例图片](./pic/2024121707.webp)
+![示例图片](https://raw.githubusercontent.com/Mrdogithub/BLOG/refs/heads/main/IOS/pic/2024121707.webp)
 
 ### 紧凑日期选择器（Compact Date Picker）
 紧凑日期选择器以紧凑的形式显示，适合在界面空间非常有限的情况下使用。它通常显示为一个按钮，点击后会弹出一个日期选择器。
@@ -242,7 +242,7 @@ struct ContentView: View {
     }
 }
 ```
-![示例图片](./pic/2024121708.webp)
+![示例图片](https://raw.githubusercontent.com/Mrdogithub/BLOG/refs/heads/main/IOS/pic/2024121708.webp)
 
 ### SwiftUI 颜色选择器
 颜色选择器是最近几个 iOS 版本中的新增功能，它大大简化了用户从调色板中选择颜色的过程。
@@ -267,4 +267,4 @@ struct ContentView: View {
         }
 }
 ```
-![示例图片](./pic/2024121709.webp)
+![示例图片](https://raw.githubusercontent.com/Mrdogithub/BLOG/refs/heads/main/IOS/pic/2024121709.webp)
