@@ -1,6 +1,7 @@
 # Blog
-[1-0] [理解 SwiftUI  Picker 选择器：用法和样式技巧_20241217](https://github.com/Mrdogithub/BLOG/blob/main/IOS/%E7%90%86%E8%A7%A3%20SwiftUI%20%20Picker%20%E9%80%89%E6%8B%A9%E5%99%A8%EF%BC%9A%E7%94%A8%E6%B3%95%E5%92%8C%E6%A0%B7%E5%BC%8F%E6%8A%80%E5%B7%A7_20241217.md)
-[1-1][理解SwiftUI 状态管理：@State、@Binding、@ObservedObject、@StateObject、@EnvironmentObject](https://github.com/Mrdogithub/BLOG/blob/main/IOS/理解SwiftUI 状态管理：@State、@Binding、@ObservedObject、@StateObject、@EnvironmentObject.md)
+- [1-0] [理解 SwiftUI  Picker 选择器：用法和样式技巧_20241217](https://github.com/Mrdogithub/BLOG/blob/main/IOS/%E7%90%86%E8%A7%A3%20SwiftUI%20%20Picker%20%E9%80%89%E6%8B%A9%E5%99%A8%EF%BC%9A%E7%94%A8%E6%B3%95%E5%92%8C%E6%A0%B7%E5%BC%8F%E6%8A%80%E5%B7%A7_20241217.md)
+
+- [1-1][理解SwiftUI 状态管理：@State、@Binding、@ObservedObject、@StateObject、@EnvironmentObject](https://github.com/Mrdogithub/BLOG/blob/main/IOS/%E7%90%86%E8%A7%A3SwiftUI%20%E7%8A%B6%E6%80%81%E7%AE%A1%E7%90%86%EF%BC%9A%40State%E3%80%81%40Binding%E3%80%81%40ObservedObject%E3%80%81%40StateObject%E3%80%81%40EnvironmentObject.md)
 ### TODO
 [2-0] [理解DatePicker 多语言设置：多语言配置技巧 以及APP 内部切换语言以及读取手机语言技巧](https://github.com/Mrdogithub/BLOG/blob/main/IOS/%E7%90%86%E8%A7%A3%20SwiftUI%20%20Picker%20%E9%80%89%E6%8B%A9%E5%99%A8%EF%BC%9A%E7%94%A8%E6%B3%95%E5%92%8C%E6%A0%B7%E5%BC%8F%E6%8A%80%E5%B7%A7_20241217.md)
 
