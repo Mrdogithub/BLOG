@@ -1,6 +1,6 @@
 # Blog
 [1-0] [理解 SwiftUI  Picker 选择器：用法和样式技巧_20241217](https://github.com/Mrdogithub/BLOG/blob/main/IOS/%E7%90%86%E8%A7%A3%20SwiftUI%20%20Picker%20%E9%80%89%E6%8B%A9%E5%99%A8%EF%BC%9A%E7%94%A8%E6%B3%95%E5%92%8C%E6%A0%B7%E5%BC%8F%E6%8A%80%E5%B7%A7_20241217.md)
-
+[1-1][理解SwiftUI 状态管理：@State、@Binding、@ObservedObject、@StateObject、@EnvironmentObject](https://github.com/Mrdogithub/BLOG/blob/main/IOS/理解SwiftUI 状态管理：@State、@Binding、@ObservedObject、@StateObject、@EnvironmentObject.md)
 ### TODO
 [2-0] [理解DatePicker 多语言设置：多语言配置技巧 以及APP 内部切换语言以及读取手机语言技巧](https://github.com/Mrdogithub/BLOG/blob/main/IOS/%E7%90%86%E8%A7%A3%20SwiftUI%20%20Picker%20%E9%80%89%E6%8B%A9%E5%99%A8%EF%BC%9A%E7%94%A8%E6%B3%95%E5%92%8C%E6%A0%B7%E5%BC%8F%E6%8A%80%E5%B7%A7_20241217.md)
 
@@ -57,3 +57,13 @@
 
 [10-3] [swift网络通信: Moya)](https://github.com/Mrdogithub/BLOG/blob/main/IOS/%E7%90%86%E8%A7%A3%20SwiftUI%20%20Picker%20%E9%80%89%E6%8B%A9%E5%99%A8%EF%BC%9A%E7%94%A8%E6%B3%95%E5%92%8C%E6%A0%B7%E5%BC%8F%E6%8A%80%E5%B7%A7_20241217.md)
 **基于Alamofire的网络层抽象库，可以进一步简化API调用，提高代码的可读性和可维护性...**
+
+
+[11-0] [swift性能优化: 异步加载)](https://github.com/Mrdogithub/BLOG/blob/main/IOS/%E7%90%86%E8%A7%A3%20SwiftUI%20%20Picker%20%E9%80%89%E6%8B%A9%E5%99%A8%EF%BC%9A%E7%94%A8%E6%B3%95%E5%92%8C%E6%A0%B7%E5%BC%8F%E6%8A%80%E5%B7%A7_20241217.md)
+**将耗时操作放在后台线程执行，确保UI的流畅性。...**
+
+[11-1] [swift性能优化: 图片与资源优化)](https://github.com/Mrdogithub/BLOG/blob/main/IOS/%E7%90%86%E8%A7%A3%20SwiftUI%20%20Picker%20%E9%80%89%E6%8B%A9%E5%99%A8%EF%BC%9A%E7%94%A8%E6%B3%95%E5%92%8C%E6%A0%B7%E5%BC%8F%E6%8A%80%E5%B7%A7_20241217.md)
+**压缩图片大小，优化资源加载方式，减少应用的启动时间和内存占用...**
+
+[11-2] [swift性能优化: 懒加载)](https://github.com/Mrdogithub/BLOG/blob/main/IOS/%E7%90%86%E8%A7%A3%20SwiftUI%20%20Picker%20%E9%80%89%E6%8B%A9%E5%99%A8%EF%BC%9A%E7%94%A8%E6%B3%95%E5%92%8C%E6%A0%B7%E5%BC%8F%E6%8A%80%E5%B7%A7_20241217.md)
+**对于不需要立即加载的数据或界面，可以采用懒加载的方式提高加载效率。...**
