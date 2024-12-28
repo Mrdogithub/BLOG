@@ -21,6 +21,22 @@
 ###### UIViewRepresentable允许在 SwiftUI 中使用 UIKit 的视图和控件。它不仅帮助你在迁移过程中逐步引入 SwiftUI，还能让你利用 UIKit 中的成熟功能和性能优化...
 ---
 
+### Think
+整体思路
+# 概念篇
+swift 核心概念梳理，状态管理、数据持久化、等
+
+# 布局篇
+swift ui 设计布局相关的知识点梳理，场景化使用
+# 动画篇
+swift ui 动画知识点梳理，动画的应用范围，以及使用方法
+
+# 组件篇
+swift ui 自定义组件实现方式，比如日历组件，tabbar等
+
+
+# 实战篇
+基于swift ui 以上，进行实践
 
 ### TODO
 [2-0] [理解DatePicker 多语言设置：多语言配置技巧 以及APP 内部切换语言以及读取手机语言技巧](https://github.com/Mrdogithub/BLOG/blob/main/IOS/%E7%90%86%E8%A7%A3%20SwiftUI%20%20Picker%20%E9%80%89%E6%8B%A9%E5%99%A8%EF%BC%9A%E7%94%A8%E6%B3%95%E5%92%8C%E6%A0%B7%E5%BC%8F%E6%8A%80%E5%B7%A7_20241217.md)
